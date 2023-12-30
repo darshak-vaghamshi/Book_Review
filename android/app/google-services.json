@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256355384245",
+    "project_id": "bookdemo-ffae7",
+    "storage_bucket": "bookdemo-ffae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256355384245:android:f14806486054a100de37fc",
+        "android_client_info": {
+          "package_name": "com.example.book_review_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_P7VQE2Nya5dQ82lWdOnQ1bkP_vgLeUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
